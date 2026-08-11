@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-10",
+  "asOf": "2026-08-11",
   "winners": [
     {
       "symbol": "MTARTECH",
@@ -11,19 +11,19 @@
     },
     {
       "symbol": "ATHERENERG",
-      "returnPct": 270.3
+      "returnPct": 285.3
     },
     {
       "symbol": "SALSTEEL",
-      "returnPct": 265.4
-    },
-    {
-      "symbol": "CPPLUS",
-      "returnPct": 247.7
+      "returnPct": 264.6
     },
     {
       "symbol": "UFBL",
-      "returnPct": 246.5
+      "returnPct": 252.1
+    },
+    {
+      "symbol": "CPPLUS",
+      "returnPct": 251.5
     },
     {
       "symbol": "STLTECH",
@@ -34,8 +34,12 @@
       "returnPct": 225.4
     },
     {
+      "symbol": "BHAGYANGR",
+      "returnPct": 221.0
+    },
+    {
       "symbol": "RPTECH",
-      "returnPct": 210.0
+      "returnPct": 206.9
     },
     {
       "symbol": "SIGMAADV",
@@ -46,60 +50,56 @@
       "returnPct": 193.2
     },
     {
-      "symbol": "SANSERA",
+      "symbol": "OMNI",
       "returnPct": 191.9
+    },
+    {
+      "symbol": "SKYGOLD",
+      "returnPct": 190.0
     },
     {
       "symbol": "MAHASTEEL",
       "returnPct": 186.5
     },
     {
-      "symbol": "SKYGOLD",
-      "returnPct": 186.2
+      "symbol": "HFCL",
+      "returnPct": 185.6
     },
     {
-      "symbol": "HFCL",
-      "returnPct": 183.9
+      "symbol": "SANSERA",
+      "returnPct": 182.2
+    },
+    {
+      "symbol": "KSHINTL",
+      "returnPct": 178.6
     },
     {
       "symbol": "THANGAMAYL",
-      "returnPct": 180.9
+      "returnPct": 174.5
     },
     {
-      "symbol": "IZMO",
-      "returnPct": 172.0
+      "symbol": "SAKAR",
+      "returnPct": 170.8
     },
     {
       "symbol": "NGLFINE",
-      "returnPct": 170.1
+      "returnPct": 169.3
     },
     {
-      "symbol": "OMNI",
-      "returnPct": 169.8
+      "symbol": "INDSWFTLAB",
+      "returnPct": 164.4
     },
     {
-      "symbol": "SHREEJISPG",
-      "returnPct": 159.8
+      "symbol": "RUBICON",
+      "returnPct": 163.5
+    },
+    {
+      "symbol": "IZMO",
+      "returnPct": 162.5
     },
     {
       "symbol": "MIRCELECTR",
       "returnPct": 158.1
-    },
-    {
-      "symbol": "SAKAR",
-      "returnPct": 156.9
-    },
-    {
-      "symbol": "RUBICON",
-      "returnPct": 154.1
-    },
-    {
-      "symbol": "KSHINTL",
-      "returnPct": 153.7
-    },
-    {
-      "symbol": "ACUTAAS",
-      "returnPct": 147.8
     }
   ]
 }
