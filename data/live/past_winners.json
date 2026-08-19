@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-18",
+  "asOf": "2026-08-19",
   "winners": [
     {
       "symbol": "MTARTECH",
@@ -7,71 +7,63 @@
     },
     {
       "symbol": "SALSTEEL",
-      "returnPct": 345.9
+      "returnPct": 390.5
     },
     {
       "symbol": "VENUSREM",
       "returnPct": 289.3
     },
     {
-      "symbol": "UFBL",
-      "returnPct": 252.1
-    },
-    {
       "symbol": "SIGMAADV",
-      "returnPct": 250.7
+      "returnPct": 268.3
     },
     {
       "symbol": "ATHERENERG",
-      "returnPct": 247.8
+      "returnPct": 258.6
+    },
+    {
+      "symbol": "UFBL",
+      "returnPct": 252.1
     },
     {
       "symbol": "STLTECH",
       "returnPct": 241.3
     },
     {
-      "symbol": "BHAGYANGR",
-      "returnPct": 233.3
-    },
-    {
       "symbol": "BGRENERGY",
       "returnPct": 225.4
     },
     {
-      "symbol": "INDSWFTLAB",
-      "returnPct": 222.1
-    },
-    {
-      "symbol": "SANSERA",
-      "returnPct": 218.6
-    },
-    {
-      "symbol": "TDPOWERSYS",
-      "returnPct": 217.2
+      "symbol": "BHAGYANGR",
+      "returnPct": 217.8
     },
     {
       "symbol": "HFCL",
-      "returnPct": 214.3
+      "returnPct": 214.7
+    },
+    {
+      "symbol": "TDPOWERSYS",
+      "returnPct": 212.8
     },
     {
       "symbol": "CPPLUS",
-      "returnPct": 214.2
+      "returnPct": 211.2
+    },
+    {
+      "symbol": "SANSERA",
+      "returnPct": 205.5
+    },
+    {
+      "symbol": "INDSWFTLAB",
+      "returnPct": 199.1
     },
     {
       "symbol": "RPTECH",
-      "returnPct": 209.1
-    },
-    {
-      "symbol": "SKYGOLD",
-      "returnPct": 196.2
+      "returnPct": 197.0
     },
     {
       "symbol": "BLISSGVS",
       "returnPct": 193.2
-    },
-    {
-      "symbol": "RUBICON",
-      "returnPct": 187.2
     },
     {
       "symbol": "MAHASTEEL",
@@ -79,27 +71,35 @@
     },
     {
       "symbol": "OMNI",
-      "returnPct": 183.8
+      "returnPct": 186.3
+    },
+    {
+      "symbol": "RUBICON",
+      "returnPct": 186.3
+    },
+    {
+      "symbol": "SKYGOLD",
+      "returnPct": 184.6
     },
     {
       "symbol": "KSHINTL",
-      "returnPct": 181.5
+      "returnPct": 183.4
     },
     {
       "symbol": "THANGAMAYL",
-      "returnPct": 179.3
+      "returnPct": 178.9
     },
     {
-      "symbol": "YASHO",
-      "returnPct": 178.8
+      "symbol": "RPEL",
+      "returnPct": 173.6
     },
     {
       "symbol": "AEROFLEX",
-      "returnPct": 165.1
+      "returnPct": 161.1
     },
     {
-      "symbol": "ACUTAAS",
-      "returnPct": 164.4
+      "symbol": "MIRCELECTR",
+      "returnPct": 158.1
     }
   ]
 }
