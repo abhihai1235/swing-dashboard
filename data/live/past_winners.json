@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-31",
+  "asOf": "2026-09-01",
   "winners": [
     {
       "symbol": "MTARTECH",
@@ -7,15 +7,15 @@
     },
     {
       "symbol": "SALSTEEL",
-      "returnPct": 387.9
-    },
-    {
-      "symbol": "ATHERENERG",
-      "returnPct": 311.2
+      "returnPct": 410.4
     },
     {
       "symbol": "SIGMAADV",
       "returnPct": 306.8
+    },
+    {
+      "symbol": "ATHERENERG",
+      "returnPct": 299.9
     },
     {
       "symbol": "VENUSREM",
@@ -26,48 +26,68 @@
       "returnPct": 252.1
     },
     {
+      "symbol": "INDSWFTLAB",
+      "returnPct": 241.9
+    },
+    {
       "symbol": "STLTECH",
       "returnPct": 241.3
     },
     {
-      "symbol": "INDSWFTLAB",
-      "returnPct": 238.8
-    },
-    {
-      "symbol": "PVP",
-      "returnPct": 237.5
-    },
-    {
       "symbol": "HFCL",
-      "returnPct": 235.5
+      "returnPct": 229.5
     },
     {
       "symbol": "BGRENERGY",
       "returnPct": 225.4
     },
     {
+      "symbol": "PVP",
+      "returnPct": 220.7
+    },
+    {
       "symbol": "BHAGYANGR",
-      "returnPct": 219.7
+      "returnPct": 215.8
+    },
+    {
+      "symbol": "AEROFLEX",
+      "returnPct": 213.5
     },
     {
       "symbol": "SANSERA",
-      "returnPct": 212.3
+      "returnPct": 211.6
     },
     {
       "symbol": "RPEL",
-      "returnPct": 197.5
+      "returnPct": 200.8
+    },
+    {
+      "symbol": "MODISONLTD",
+      "returnPct": 195.9
     },
     {
       "symbol": "BLISSGVS",
       "returnPct": 193.2
     },
     {
-      "symbol": "AEROFLEX",
-      "returnPct": 192.4
+      "symbol": "WELCORP",
+      "returnPct": 192.1
+    },
+    {
+      "symbol": "CPPLUS",
+      "returnPct": 190.5
     },
     {
       "symbol": "RUBICON",
-      "returnPct": 189.7
+      "returnPct": 190.1
+    },
+    {
+      "symbol": "SETL",
+      "returnPct": 187.2
+    },
+    {
+      "symbol": "PRECWIRE",
+      "returnPct": 187.0
     },
     {
       "symbol": "MAHASTEEL",
@@ -75,31 +95,11 @@
     },
     {
       "symbol": "RPTECH",
-      "returnPct": 186.2
-    },
-    {
-      "symbol": "PRECWIRE",
-      "returnPct": 186.0
+      "returnPct": 186.1
     },
     {
       "symbol": "AVALON",
-      "returnPct": 175.2
-    },
-    {
-      "symbol": "SETL",
-      "returnPct": 174.2
-    },
-    {
-      "symbol": "CPPLUS",
-      "returnPct": 170.2
-    },
-    {
-      "symbol": "WELCORP",
-      "returnPct": 169.2
-    },
-    {
-      "symbol": "MODISONLTD",
-      "returnPct": 169.0
+      "returnPct": 174.8
     }
   ]
 }
