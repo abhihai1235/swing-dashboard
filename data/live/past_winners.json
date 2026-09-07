@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-04",
+  "asOf": "2026-09-07",
   "winners": [
     {
       "symbol": "MTARTECH",
@@ -7,7 +7,7 @@
     },
     {
       "symbol": "SALSTEEL",
-      "returnPct": 403.8
+      "returnPct": 406.5
     },
     {
       "symbol": "SIGMAADV",
@@ -22,20 +22,12 @@
       "returnPct": 252.1
     },
     {
+      "symbol": "INDSWFTLAB",
+      "returnPct": 242.4
+    },
+    {
       "symbol": "STLTECH",
       "returnPct": 241.3
-    },
-    {
-      "symbol": "PVP",
-      "returnPct": 234.8
-    },
-    {
-      "symbol": "INDSWFTLAB",
-      "returnPct": 230.5
-    },
-    {
-      "symbol": "ATHERENERG",
-      "returnPct": 225.4
     },
     {
       "symbol": "BGRENERGY",
@@ -46,60 +38,68 @@
       "returnPct": 224.6
     },
     {
-      "symbol": "BHAGYANGR",
-      "returnPct": 207.9
+      "symbol": "ATHERENERG",
+      "returnPct": 222.0
+    },
+    {
+      "symbol": "PVP",
+      "returnPct": 221.1
     },
     {
       "symbol": "AEROFLEX",
-      "returnPct": 207.5
-    },
-    {
-      "symbol": "KSHINTL",
-      "returnPct": 206.4
+      "returnPct": 219.6
     },
     {
       "symbol": "WELCORP",
-      "returnPct": 205.3
+      "returnPct": 215.2
     },
     {
-      "symbol": "SETL",
-      "returnPct": 203.5
+      "symbol": "SAKAR",
+      "returnPct": 214.9
     },
     {
-      "symbol": "RPEL",
-      "returnPct": 203.0
+      "symbol": "KSHINTL",
+      "returnPct": 211.5
     },
     {
-      "symbol": "CPPLUS",
-      "returnPct": 196.8
-    },
-    {
-      "symbol": "SANSERA",
-      "returnPct": 196.2
+      "symbol": "BHAGYANGR",
+      "returnPct": 210.3
     },
     {
       "symbol": "RPTECH",
-      "returnPct": 195.3
+      "returnPct": 203.9
+    },
+    {
+      "symbol": "SANSERA",
+      "returnPct": 202.0
     },
     {
       "symbol": "BLISSGVS",
       "returnPct": 193.2
     },
     {
-      "symbol": "SAKAR",
-      "returnPct": 187.9
+      "symbol": "SETL",
+      "returnPct": 188.3
     },
     {
       "symbol": "MAHASTEEL",
       "returnPct": 186.5
     },
     {
-      "symbol": "RUBICON",
-      "returnPct": 181.5
+      "symbol": "CPPLUS",
+      "returnPct": 186.3
+    },
+    {
+      "symbol": "RISHABH",
+      "returnPct": 185.7
     },
     {
       "symbol": "MODISONLTD",
-      "returnPct": 178.5
+      "returnPct": 181.8
+    },
+    {
+      "symbol": "AVALON",
+      "returnPct": 181.6
     }
   ]
 }
