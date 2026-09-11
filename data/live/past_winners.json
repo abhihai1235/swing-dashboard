@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-10",
+  "asOf": "2026-09-11",
   "winners": [
     {
       "symbol": "MTARTECH",
@@ -7,7 +7,7 @@
     },
     {
       "symbol": "SALSTEEL",
-      "returnPct": 374.5
+      "returnPct": 363.2
     },
     {
       "symbol": "SIGMAADV",
@@ -18,40 +18,32 @@
       "returnPct": 289.3
     },
     {
-      "symbol": "BHAGYANGR",
-      "returnPct": 259.2
+      "symbol": "INDSWFTLAB",
+      "returnPct": 257.8
     },
     {
       "symbol": "UFBL",
       "returnPct": 252.1
     },
     {
-      "symbol": "INDSWFTLAB",
-      "returnPct": 250.5
+      "symbol": "BHAGYANGR",
+      "returnPct": 251.2
+    },
+    {
+      "symbol": "SETL",
+      "returnPct": 247.4
     },
     {
       "symbol": "STLTECH",
       "returnPct": 241.3
     },
     {
-      "symbol": "ATHERENERG",
-      "returnPct": 232.1
-    },
-    {
-      "symbol": "SETL",
-      "returnPct": 230.9
-    },
-    {
       "symbol": "KSHINTL",
-      "returnPct": 230.8
+      "returnPct": 229.8
     },
     {
-      "symbol": "WELCORP",
-      "returnPct": 227.0
-    },
-    {
-      "symbol": "PVP",
-      "returnPct": 225.8
+      "symbol": "SAKAR",
+      "returnPct": 228.9
     },
     {
       "symbol": "BGRENERGY",
@@ -62,44 +54,52 @@
       "returnPct": 224.6
     },
     {
-      "symbol": "SAKAR",
-      "returnPct": 217.2
+      "symbol": "PVP",
+      "returnPct": 219.5
+    },
+    {
+      "symbol": "ATHERENERG",
+      "returnPct": 218.3
     },
     {
       "symbol": "AEROFLEX",
-      "returnPct": 216.4
+      "returnPct": 216.1
     },
     {
-      "symbol": "WHEELS",
-      "returnPct": 215.9
+      "symbol": "WELCORP",
+      "returnPct": 211.6
     },
     {
       "symbol": "MODISONLTD",
       "returnPct": 205.0
     },
     {
-      "symbol": "SANSERA",
-      "returnPct": 201.2
+      "symbol": "WHEELS",
+      "returnPct": 197.4
     },
     {
-      "symbol": "SKYGOLD",
-      "returnPct": 197.7
+      "symbol": "SANSERA",
+      "returnPct": 195.4
     },
     {
       "symbol": "BLISSGVS",
       "returnPct": 193.2
     },
     {
-      "symbol": "MAHASTEEL",
-      "returnPct": 186.5
+      "symbol": "RISHABH",
+      "returnPct": 192.6
     },
     {
-      "symbol": "RISHABH",
-      "returnPct": 185.6
+      "symbol": "SKYGOLD",
+      "returnPct": 192.4
     },
     {
       "symbol": "RUBICON",
-      "returnPct": 184.9
+      "returnPct": 192.2
+    },
+    {
+      "symbol": "MAHASTEEL",
+      "returnPct": 186.5
     }
   ]
 }
