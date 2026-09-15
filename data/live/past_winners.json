@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-11",
+  "asOf": "2026-09-15",
   "winners": [
     {
       "symbol": "MTARTECH",
@@ -7,7 +7,7 @@
     },
     {
       "symbol": "SALSTEEL",
-      "returnPct": 363.2
+      "returnPct": 340.1
     },
     {
       "symbol": "SIGMAADV",
@@ -18,32 +18,24 @@
       "returnPct": 289.3
     },
     {
-      "symbol": "INDSWFTLAB",
-      "returnPct": 257.8
-    },
-    {
       "symbol": "UFBL",
       "returnPct": 252.1
     },
     {
-      "symbol": "BHAGYANGR",
-      "returnPct": 251.2
-    },
-    {
-      "symbol": "SETL",
-      "returnPct": 247.4
+      "symbol": "INDSWFTLAB",
+      "returnPct": 251.7
     },
     {
       "symbol": "STLTECH",
       "returnPct": 241.3
     },
     {
-      "symbol": "KSHINTL",
-      "returnPct": 229.8
+      "symbol": "BHAGYANGR",
+      "returnPct": 236.6
     },
     {
-      "symbol": "SAKAR",
-      "returnPct": 228.9
+      "symbol": "SETL",
+      "returnPct": 230.0
     },
     {
       "symbol": "BGRENERGY",
@@ -54,52 +46,60 @@
       "returnPct": 224.6
     },
     {
-      "symbol": "PVP",
-      "returnPct": 219.5
-    },
-    {
-      "symbol": "ATHERENERG",
-      "returnPct": 218.3
-    },
-    {
-      "symbol": "AEROFLEX",
-      "returnPct": 216.1
-    },
-    {
-      "symbol": "WELCORP",
-      "returnPct": 211.6
+      "symbol": "SAKAR",
+      "returnPct": 223.0
     },
     {
       "symbol": "MODISONLTD",
       "returnPct": 205.0
     },
     {
-      "symbol": "WHEELS",
-      "returnPct": 197.4
+      "symbol": "PVP",
+      "returnPct": 203.5
     },
     {
-      "symbol": "SANSERA",
-      "returnPct": 195.4
+      "symbol": "KSHINTL",
+      "returnPct": 198.3
     },
     {
       "symbol": "BLISSGVS",
       "returnPct": 193.2
     },
     {
-      "symbol": "RISHABH",
-      "returnPct": 192.6
+      "symbol": "AEROFLEX",
+      "returnPct": 189.3
     },
     {
-      "symbol": "SKYGOLD",
-      "returnPct": 192.4
+      "symbol": "WHEELS",
+      "returnPct": 189.1
     },
     {
       "symbol": "RUBICON",
-      "returnPct": 192.2
+      "returnPct": 189.0
+    },
+    {
+      "symbol": "SKYGOLD",
+      "returnPct": 187.1
     },
     {
       "symbol": "MAHASTEEL",
       "returnPct": 186.5
+    },
+    {
+      "symbol": "TBZ",
+      "returnPct": 177.9
+    },
+    {
+      "symbol": "SANSERA",
+      "returnPct": 177.8
+    },
+    {
+      "symbol": "RISHABH",
+      "returnPct": 175.0
+    },
+    {
+      "symbol": "ATHERENERG",
+      "returnPct": 173.6
     }
   ]
 }
