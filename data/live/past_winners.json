@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-22",
   "winners": [
     {
       "symbol": "MTARTECH",
@@ -7,23 +7,23 @@
     },
     {
       "symbol": "SALSTEEL",
-      "returnPct": 409.3
+      "returnPct": 401.4
     },
     {
       "symbol": "SIGMAADV",
       "returnPct": 306.8
     },
     {
-      "symbol": "BHAGYANGR",
-      "returnPct": 259.7
-    },
-    {
-      "symbol": "MONQ50",
-      "returnPct": 252.9
-    },
-    {
       "symbol": "INDSWFTLAB",
-      "returnPct": 252.3
+      "returnPct": 276.6
+    },
+    {
+      "symbol": "TBZ",
+      "returnPct": 254.3
+    },
+    {
+      "symbol": "BHAGYANGR",
+      "returnPct": 254.1
     },
     {
       "symbol": "UFBL",
@@ -31,19 +31,15 @@
     },
     {
       "symbol": "VENUSREM",
-      "returnPct": 245.0
+      "returnPct": 249.0
     },
     {
       "symbol": "STLTECH",
       "returnPct": 241.3
     },
     {
-      "symbol": "TBZ",
-      "returnPct": 238.4
-    },
-    {
       "symbol": "SAKAR",
-      "returnPct": 228.9
+      "returnPct": 237.4
     },
     {
       "symbol": "BGRENERGY",
@@ -54,52 +50,56 @@
       "returnPct": 224.6
     },
     {
-      "symbol": "SANSERA",
-      "returnPct": 207.0
+      "symbol": "PVP",
+      "returnPct": 222.1
     },
     {
-      "symbol": "PVP",
-      "returnPct": 206.8
+      "symbol": "SANSERA",
+      "returnPct": 220.9
     },
     {
       "symbol": "MODISONLTD",
       "returnPct": 205.0
     },
     {
-      "symbol": "SETL",
-      "returnPct": 203.2
+      "symbol": "WELCORP",
+      "returnPct": 201.7
     },
     {
-      "symbol": "WELCORP",
-      "returnPct": 199.1
+      "symbol": "SETL",
+      "returnPct": 198.7
+    },
+    {
+      "symbol": "KSHINTL",
+      "returnPct": 193.2
     },
     {
       "symbol": "BLISSGVS",
       "returnPct": 193.2
     },
     {
-      "symbol": "ATHERENERG",
-      "returnPct": 191.3
-    },
-    {
-      "symbol": "KSHINTL",
-      "returnPct": 190.7
-    },
-    {
-      "symbol": "AEROFLEX",
-      "returnPct": 187.9
-    },
-    {
       "symbol": "MAHASTEEL",
       "returnPct": 186.5
     },
     {
-      "symbol": "SKYGOLD",
-      "returnPct": 182.2
+      "symbol": "SHREEJISPG",
+      "returnPct": 181.8
     },
     {
-      "symbol": "SHREEJISPG",
-      "returnPct": 177.9
+      "symbol": "MONQ50",
+      "returnPct": 181.6
+    },
+    {
+      "symbol": "RPTECH",
+      "returnPct": 181.1
+    },
+    {
+      "symbol": "ATHERENERG",
+      "returnPct": 177.5
+    },
+    {
+      "symbol": "SKYGOLD",
+      "returnPct": 177.0
     }
   ]
 }
