@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-09-24",
+  "asOf": "2026-09-25",
   "winners": [
     {
       "symbol": "SALSTEEL",
-      "returnPct": 452.8
+      "returnPct": 479.6
     },
     {
       "symbol": "MTARTECH",
@@ -15,23 +15,23 @@
     },
     {
       "symbol": "INDSWFTLAB",
-      "returnPct": 272.6
+      "returnPct": 275.5
     },
     {
-      "symbol": "BHAGYANGR",
-      "returnPct": 259.3
+      "symbol": "VENUSREM",
+      "returnPct": 261.3
     },
     {
       "symbol": "TBZ",
       "returnPct": 254.3
     },
     {
-      "symbol": "UFBL",
-      "returnPct": 252.1
+      "symbol": "BHAGYANGR",
+      "returnPct": 253.7
     },
     {
-      "symbol": "VENUSREM",
-      "returnPct": 251.9
+      "symbol": "UFBL",
+      "returnPct": 252.1
     },
     {
       "symbol": "STLTECH",
@@ -46,28 +46,36 @@
       "returnPct": 224.6
     },
     {
-      "symbol": "PVP",
-      "returnPct": 221.3
+      "symbol": "SAKAR",
+      "returnPct": 222.5
     },
     {
-      "symbol": "SAKAR",
-      "returnPct": 220.4
+      "symbol": "KABRAEXTRU",
+      "returnPct": 213.6
+    },
+    {
+      "symbol": "WELCORP",
+      "returnPct": 213.4
     },
     {
       "symbol": "SANSERA",
-      "returnPct": 212.1
+      "returnPct": 211.9
+    },
+    {
+      "symbol": "PVP",
+      "returnPct": 205.3
     },
     {
       "symbol": "MODISONLTD",
       "returnPct": 205.0
     },
     {
-      "symbol": "WELCORP",
-      "returnPct": 200.7
+      "symbol": "SETL",
+      "returnPct": 198.7
     },
     {
-      "symbol": "SETL",
-      "returnPct": 198.9
+      "symbol": "SHREEJISPG",
+      "returnPct": 194.7
     },
     {
       "symbol": "BLISSGVS",
@@ -75,31 +83,23 @@
     },
     {
       "symbol": "KSHINTL",
-      "returnPct": 191.8
-    },
-    {
-      "symbol": "KABRAEXTRU",
-      "returnPct": 189.1
+      "returnPct": 191.7
     },
     {
       "symbol": "MAHASTEEL",
       "returnPct": 186.5
     },
     {
-      "symbol": "SHREEJISPG",
-      "returnPct": 186.4
-    },
-    {
-      "symbol": "RPTECH",
-      "returnPct": 180.3
-    },
-    {
-      "symbol": "AEROFLEX",
-      "returnPct": 177.3
+      "symbol": "WHEELS",
+      "returnPct": 184.5
     },
     {
       "symbol": "BODALCHEM",
-      "returnPct": 171.9
+      "returnPct": 181.6
+    },
+    {
+      "symbol": "RPTECH",
+      "returnPct": 180.7
     }
   ]
 }
